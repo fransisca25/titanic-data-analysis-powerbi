@@ -2,6 +2,8 @@
 
 This project is an exploratory data analysis of the Titanic dataset using **Power BI** to investigate which features might have influenced passenger survival.  
 
+Medium Article: [Lessons from the Titanic Kaggle Dataset (Part 2): Which Features Matter Most in Predicting Survival?](https://medium.com/@fcel2510/lessons-from-the-titanic-kaggle-dataset-part-2-which-features-matter-most-in-predicting-survival-a4008154e290)
+
 It explores several key questions such as:
 - Did female had higher survival rate than male?
 - How strong was the influence of gender and age?
